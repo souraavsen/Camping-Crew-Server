@@ -125,9 +125,9 @@ async function run() {
 run().catch(console.dir);
 
 app.get("/", (req, res) => {
-  res.send("Server Running");
+  res.send("Camping Crew Server is Running");
 });
 
 app.listen(port, () => {
-  console.log(`http://127.0.0.1:${port}`);
+  console.log('Running Camping Crew Server on Port ', port);
 });
