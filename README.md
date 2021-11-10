@@ -1,8 +1,6 @@
-# Wild Wishes
+# Camping Crew
 
 Client side live link : [https://camp-crew.web.app/](https://camp-crew.web.app/).
-
-Server side live link : [https://bloodcurdling-warlock-64846.herokuapp.com/](https://bloodcurdling-warlock-64846.herokuapp.com/).
 
 ## About Camping Crew
 
